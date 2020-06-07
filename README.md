@@ -10,6 +10,3 @@ this is demo repo
 
 ## Ending Section 
 ##long time
-
-
-`code section`
